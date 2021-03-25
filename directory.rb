@@ -25,10 +25,10 @@ def interactive_menu
       when "1"
         students = input_students
       when "2"
-      # show the students
-      print_header
-      print(students)
-      print_footer
+        # show the students
+        print_header
+        print(students)
+        print_footer
       when "9"
         exit # this will cause the program to terminate
       else
