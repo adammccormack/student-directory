@@ -21,9 +21,9 @@ def process(selection)
 end
 
 def print_menu
-    puts "1. Input the students"
-    puts "2. Show the students"
-    puts "9. Exit"
+  puts "1. Input the students"
+  puts "2. Show the students"
+  puts "9. Exit"
 end
 
 def show_students
